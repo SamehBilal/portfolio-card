@@ -110,7 +110,7 @@
                                         <!-- title -->
 
                                         <!-- slogan -->
-                                        <h2>Back-End Developer</h2>
+                                        <h2>Full-Stack Developer</h2>
                                         <!-- slogan -->
 
                                         <!-- extra titles -->
@@ -185,16 +185,30 @@
                                             <!-- EMPLOYMENT -->
                                             <div class="history-group">
 
-                                            <!-- .history-unit -->
-                                            <div class="history-unit">
+                                                <!-- .history-unit -->
+                                                <div class="history-unit">
 
-                                                <h4 class="work-time">since <!--November--> 2021</h4>
+                                                    <h4 class="work-time">since <!--January--> 2024</h4>
 
-                                                <div class="work-desc">
-                                                    <h4>Senior Back-End Developer</h4>
-                                                    <h5>Arabhardware Inc.</h5>
-                                                    <p>’m responsible for Arabhardware ecosystem’s back-end. Also, I’m responsible for building algorithms to validate articles before publishing on the website.</p>
+                                                    <div class="work-desc">
+                                                        <h4>Full-Stack Developer</h4>
+                                                        <h5>ESME Inc.</h5>
+                                                        <p>’m responsible for ESME's Arabiatalents ecosystem’s back-end.</p>
+                                                    </div>
+
                                                 </div>
+                                                <!-- .history-unit -->
+
+                                                <!-- .history-unit -->
+                                                <div class="history-unit">
+
+                                                    <h4 class="work-time">since <!--November--> 2021</h4>
+
+                                                    <div class="work-desc">
+                                                        <h4>Senior Back-End Developer</h4>
+                                                        <h5>Arabhardware Inc.</h5>
+                                                        <p>’m responsible for Arabhardware ecosystem’s back-end. Also, I’m responsible for building algorithms to validate articles before publishing on the website.</p>
+                                                    </div>
 
                                                 </div>
                                                 <!-- .history-unit -->
@@ -516,7 +530,7 @@
                                                 <div class="service">
                                                     <img src="images/ico/icon-brushes.png" style="height: 42px;" alt="">
                                                     <h4>Web Design</h4>
-                                                    <p>I design super cool websites.</p>
+                                                    <p>I design super cool websites from scratch or modify existed websites.</p>
                                                 </div>
                                                 <!-- service -->
 
