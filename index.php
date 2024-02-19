@@ -185,11 +185,24 @@
                                             <!-- EMPLOYMENT -->
                                             <div class="history-group">
 
+                                            <!-- .history-unit -->
+                                            <div class="history-unit">
+
+                                                <h4 class="work-time">since <!--November--> 2021</h4>
+
+                                                <div class="work-desc">
+                                                    <h4>Senior Back-End Developer</h4>
+                                                    <h5>Arabhardware Inc.</h5>
+                                                    <p>’m responsible for Arabhardware ecosystem’s back-end. Also, I’m responsible for building algorithms to validate articles before publishing on the website.</p>
+                                                </div>
+
+                                                </div>
+                                                <!-- .history-unit -->
 
                                                 <!-- .history-unit -->
                                                 <div class="history-unit">
 
-                                                    <h4 class="work-time">since <!--june--> 2019</h4>
+                                                    <h4 class="work-time"><!--june--> 2019 - <!--June--> 2021</h4>
 
                                                     <div class="work-desc">
                                                         <h4>Back-End Developer</h4>
@@ -340,6 +353,15 @@
 
                                                 <!-- .skill-unit -->
                                                 <div class="skill-unit">
+                                                    <h4>Livewire</h4>
+                                                    <div class="bar" data-percent="90">
+                                                        <div class="progress"></div>
+                                                    </div>
+                                                </div>
+                                                <!-- .skill-unit -->
+
+                                                <!-- .skill-unit -->
+                                                <div class="skill-unit">
                                                     <h4>MVC</h4>
                                                     <div class="bar" data-percent="90">
                                                         <div class="progress"></div>
@@ -370,6 +392,15 @@
                                                 <div class="skill-unit">
                                                     <h4>Vue.js</h4>
                                                     <div class="bar" data-percent="60">
+                                                        <div class="progress"></div>
+                                                    </div>
+                                                </div>
+                                                <!-- .skill-unit -->
+
+                                                <!-- .skill-unit -->
+                                                <div class="skill-unit">
+                                                    <h4>React</h4>
+                                                    <div class="bar" data-percent="20">
                                                         <div class="progress"></div>
                                                     </div>
                                                 </div>
@@ -485,7 +516,7 @@
                                                 <div class="service">
                                                     <img src="images/ico/icon-brushes.png" style="height: 42px;" alt="">
                                                     <h4>Web Design</h4>
-                                                    <p>I design super cool websites. It is a long established fact that a reader will be distracted by the readable content. </p>
+                                                    <p>I design super cool websites.</p>
                                                 </div>
                                                 <!-- service -->
 
@@ -583,20 +614,44 @@
                                             <!-- PORTFOLIO -->
                                             <div class="portfolio-items">
 
-
-
-                                              <!-- portfolio-item -->
-                                              <div class="coding hentry">
-                                                <div class="media-box">
-                                                    <img src="images/portfolio/26.jpg" alt="portfolio-post">
-                                                    <div class="mask">
-                                                        <a href="portfolio-item-01.html" class="ajax"></a>
+                                                <!-- portfolio-item -->
+                                                <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/42.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://www.palestinecrisis.com/en/live-tracker" target="_blank"></a>
+                                                        </div>
                                                     </div>
+                                                    <h4>Palestine Crisis</h4>
+                                                    <p class="category">Website</p>
                                                 </div>
-                                                <h4>Cardiff Modern School (CMS)</h4>
-                                                <p class="category">Learning Management System</p>
-                                              </div>
-                                              <!-- portfolio-item -->
+                                                <!-- portfolio-item -->
+                                                
+                                                <!-- portfolio-item -->
+                                                <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/41.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://arabhardware.net/" target="_blank"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Arabhardware</h4>
+                                                    <p class="category">Website</p>
+                                                </div>
+                                                <!-- portfolio-item -->
+
+                                                <!-- portfolio-item -->
+                                                <div class="coding hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/26.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="portfolio-item-01.html" class="ajax"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Cardiff Modern School (CMS)</h4>
+                                                    <p class="category">Learning Management System</p>
+                                                </div>
+                                                <!-- portfolio-item -->
 
                                                 <!-- portfolio-item - custom url -->
                                                 <div class="coding url hentry">
