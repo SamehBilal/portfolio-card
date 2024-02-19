@@ -1,6 +1,7 @@
 /* --- MAIN STYLE FILE */
 
 /* BASE */
+@import url('https://fonts.googleapis.com/css2?family=Tulpen+One&display=swap')
 html, body { width:100%; height:100%; }
 body { overflow: hidden; -webkit-text-size-adjust:none; }
 .safe-mod body { overflow: visible; overflow-x: hidden; }
