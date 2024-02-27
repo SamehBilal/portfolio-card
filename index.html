@@ -640,6 +640,32 @@
                                                     <p class="category">Website</p>
                                                 </div>
                                                 <!-- portfolio-item -->
+
+                                                <!-- portfolio-item -->
+                                                <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/44.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://store.arabhardware.net/" target="_blank"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Arabhardware Store</h4>
+                                                    <p class="category">Website</p>
+                                                </div>
+                                                <!-- portfolio-item -->
+
+                                                <!-- portfolio-item -->
+                                                <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/43.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://arabhardware.com/home" target="_blank"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Arabhardware Group</h4>
+                                                    <p class="category">Website</p>
+                                                </div>
+                                                <!-- portfolio-item -->
                                                 
                                                 <!-- portfolio-item -->
                                                 <div class="coding url hentry">
@@ -650,6 +676,19 @@
                                                         </div>
                                                     </div>
                                                     <h4>Arabhardware</h4>
+                                                    <p class="category">Website</p>
+                                                </div>
+                                                <!-- portfolio-item -->
+
+                                                 <!-- portfolio-item -->
+                                                 <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/45.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://www.zilika.shop/" target="_blank"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Zilika</h4>
                                                     <p class="category">Website</p>
                                                 </div>
                                                 <!-- portfolio-item -->
