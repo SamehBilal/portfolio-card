@@ -115,7 +115,7 @@
 
                                         <!-- extra titles -->
                                         <h3><span>I AM FROM</span> Egypt</h3>
-                                        <h3><span>I CREATE</span> Web Apps</h3>
+                                        <h3><span>I CREATE</span> Applications</h3>
                                         <h3><span>I LIKE</span> Minimalistic design</h3>
                                         <h3><span>FREELANCE</span> Available</h3>
                                         <!-- extra titles -->
@@ -628,6 +628,19 @@
                                             <!-- PORTFOLIO -->
                                             <div class="portfolio-items">
 
+                                            <!-- portfolio-item -->
+                                            <div class="coding url hentry">
+                                                    <div class="media-box">
+                                                        <img src="images/portfolio/46.jpg" alt="portfolio-post">
+                                                        <div class="mask">
+                                                            <a href="https://arabiatalents.com/" target="_blank"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h4>Arabia Talents</h4>
+                                                    <p class="category">Website</p>
+                                                </div>
+                                                <!-- portfolio-item -->
+
                                                 <!-- portfolio-item -->
                                                 <div class="coding url hentry">
                                                     <div class="media-box">
@@ -681,7 +694,7 @@
                                                 <!-- portfolio-item -->
 
                                                  <!-- portfolio-item -->
-                                                 <div class="coding url hentry">
+                                                 <!-- <div class="coding url hentry">
                                                     <div class="media-box">
                                                         <img src="images/portfolio/45.jpg" alt="portfolio-post">
                                                         <div class="mask">
@@ -690,7 +703,7 @@
                                                     </div>
                                                     <h4>Zilika</h4>
                                                     <p class="category">Website</p>
-                                                </div>
+                                                </div> -->
                                                 <!-- portfolio-item -->
 
                                                 <!-- portfolio-item -->
