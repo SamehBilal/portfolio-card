@@ -659,7 +659,7 @@
                                                     <div class="media-box">
                                                         <img src="images/portfolio/44.jpg" alt="portfolio-post">
                                                         <div class="mask">
-                                                            <a href="https://store.arabhardware.net/" target="_blank"></a>
+                                                            <a href="https://ahw.store/" target="_blank"></a>
                                                         </div>
                                                     </div>
                                                     <h4>Arabhardware Store</h4>
